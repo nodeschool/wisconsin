@@ -15,7 +15,7 @@ header h1{
   text-transform: uppercase;
   background: #303030 url('schoollines.png') center bottom no-repeat;
   background-size: auto 100px;
-  color:#025bac;
+  color:#8E3030;
 }
 header h1 .container{
   padding: 80px 0;
@@ -27,7 +27,7 @@ header h1 .container{
 header h2 {
   margin:0;
   background-color: #303030;
-  background-color: #025bac;
+  background-color: #8E3030;
   padding: 10px 20px;
   color:white;
   letter-spacing: 4px;
@@ -35,7 +35,7 @@ header h2 {
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 200;
-  color:#025bac;
+  color:#8E3030;
   color:#000;
 }
 header h1 .what{
@@ -43,7 +43,7 @@ header h1 .what{
 }
 header h1 .where{
   padding: 6px 12px;
-  color:#025bac;
+  color:#8E3030;
   background: #303030;
   border:3px solid white;
 }
@@ -170,7 +170,7 @@ a:hover{
 
 .sign{
   padding: 6px 12px;
-  color:#025bac;
+  color:#8E3030;
   background: #303030;
   border:3px solid white;
   text-transform: uppercase;
@@ -200,7 +200,7 @@ a:hover{
   }
   header h1 .where{
     padding: 6px 12px;
-    color:#025bac;
+    color:#8E3030;
     background: #303030;
     border:3px solid white;
   }
